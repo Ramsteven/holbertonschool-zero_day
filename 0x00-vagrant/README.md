@@ -1,2 +1,1 @@
-# This a taks number 1, adding files with github with the command line.
-
+# This is my first project and my Zero-Project-Day
